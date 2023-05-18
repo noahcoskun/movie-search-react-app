@@ -1,6 +1,7 @@
 import { Grid, GridItem, Show } from '@chakra-ui/react'
 import NavBar from './components/NavBar'
 
+
 const App = () => {
   return (
     // template areas are responsive, hence it is defined as an objec with base and large screens
